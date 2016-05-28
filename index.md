@@ -1,4 +1,6 @@
-# USC München
+---
+layout: index
+---
 ## Informationen
 ### Der Vorstand des Universitäts-Sportclub München e. V.
  
