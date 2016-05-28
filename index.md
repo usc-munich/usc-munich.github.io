@@ -4,14 +4,14 @@ title: Informationen
 ---
 ## Der Vorstand des Universitäts-Sportclub München e. V.
  
-* 1. Vorsitzender:	Prof. Dr. Peter Kapustin
-* 2. Vorsitzender:	Dr. Alexander Neumann
+* Erster Vorsitzender:	Prof. Dr. Peter Kapustin
+* Zweiter Vorsitzender:	Dr. Alexander Neumann
 * Sportwart:	Toni Schneider
 * Schatzmeister:	Roswitha Buchner
 * Schriftführer:	Julia Ouyang
 * Jugendwartin:	Betina Gabler
 
-Geschäftszimmer: Luise Fuchs
+**Geschäftszimmer: Luise Fuchs**
 
 ### Abteilungsleiter Hochschulsport der TU München
 
@@ -28,7 +28,7 @@ Sehr früh schon hat sich der Münchner Hochschulsport über die Integration des
 Der USC München ist heute insofern ein Partner de Hochschulsports, als er sinnvolle Ergänzungsprogramme anbietet und in vielen Fällen wertvolle Hilfestellung leistet. Nur eine Kooperation zwischen Hochschulsport und USC ermöglicht es, weitere Ressourcen für den Sport an der Universität freizumachen und zum Vorteil der Hochschulangehörigen einzusetzen.
 
 
-
+***
 
 eMail an die Geschäftstelle des USC München: Info@USC-Muenchen.de
 
