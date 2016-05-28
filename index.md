@@ -1,8 +1,8 @@
 ---
 layout: index
+title: Informationen
 ---
-## Informationen
-### Der Vorstand des Universitäts-Sportclub München e. V.
+## Der Vorstand des Universitäts-Sportclub München e. V.
  
 * 1. Vorsitzender:	Prof. Dr. Peter Kapustin
 * 2. Vorsitzender:	Dr. Alexander Neumann
@@ -14,6 +14,7 @@ layout: index
 Geschäftszimmer: Luise Fuchs
 
 ### Abteilungsleiter Hochschulsport der TU München
+
 #### SPORT AN DER UNIVERSITÄT - HOCHSCHULSPORT UND USC MÜNCHEN EIN TANDEM FÜRS LEBEN ?
 
 Die Förderung des Sports an den Universitäten und Hochschule hat eine lange Tradition und ist seit 1976 im Hochschulgesetz verankert. In München nimmt diese Aufgabe das Sportzentrum der TU München, als Zentrale Einrichtung für alle Hochschulen, wahr.
