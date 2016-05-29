@@ -34,4 +34,6 @@ Die Trainingszeiten finden Sie auf unserer [Karate-Homepage](https://www.karate-
 
 ---
 
-[Email an die Abteilung](mailto:karate@usc-muenchen.de) | [zur Abteilung Karate](https://www.karate-usc.de/)
+[Email an die Abteilung](mailto:karate@usc-muenchen.de) 
+
+[zur Abteilung Karate](https://www.karate-usc.de/)
