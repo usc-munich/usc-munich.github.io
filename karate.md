@@ -32,8 +32,8 @@ Euro  60.-/Jahr für Jugendliche
 
 Die Trainingszeiten finden Sie auf unserer [Karate-Homepage](https://www.karate-usc.de/) unter dem Punkt [Trainingsplan](https://www.karate-usc.de/trainingsplan/).
 
----
+***
 
-[Email an die Abteilung](mailto:karate@usc-muenchen.de) 
+Email an die Abteilung: <info@karate-usc.de>
 
-[zur Abteilung Karate](https://www.karate-usc.de/)
+zur Abteilung Karate: [www.karate-usc.de](https://www.karate-usc.de)
